@@ -3,5 +3,5 @@ Java Implementation of the following algorithoms:
 
 - Hierarchical Clustering ( Single/Complete/Average Linkage);
 - K-Means
-- Nearest Neighbor Clustering 
+- Nearest Neighbor Clustering (k-NN) 
 - Shortest Path betweeness for Graph Modularity.
